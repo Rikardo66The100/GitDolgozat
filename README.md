@@ -1,0 +1,2 @@
+# GitDolgozat
+Git dolgozat
